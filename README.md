@@ -36,7 +36,7 @@ Use code coverage to find untested code and a problem with the tests.
 
 8. Normally, **all** the lines of test code should be executed.  When some part of test code is not executed it may indicate a problem with the tests.  Explain the problem in the unit test code. (write you answer below).
 
-   Answer: When using ```with self.assertRaises(ValueError):``` its only test the first one for example
+   Answer: When using ```with self.assertRaises(ValueError):``` its only test the first one.
 
 
 
